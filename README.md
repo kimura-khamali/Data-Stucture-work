@@ -1,5 +1,5 @@
 
-                              HEAP
+HEAP DATA STRUCTURE
                               
 It is a complete tree binary data structure that satisfies heap properties.
 The value of children is less than or equal to its own value equal

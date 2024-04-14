@@ -22,3 +22,4 @@ max
 #2*i,-left child
 #2*i+1 -right
 #[1/2]-parent at
+j
